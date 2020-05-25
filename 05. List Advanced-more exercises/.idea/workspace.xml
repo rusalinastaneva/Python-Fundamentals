@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="776c5fe6-ce18-4f92-9c38-589d768002da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1arX2GEc43nOAjQxhI7tFoWeYAC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dictionary" />
+  </component>
+  <component name="RunManager" selected="Python.04. Social Distribution">
+    <configuration name="02. Car Race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="List Advanced-more exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02. Car Race.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Take Skip Rope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="List Advanced-more exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. Take Skip Rope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04. Social Distribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="List Advanced-more exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. Social Distribution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05. Кate's Way Out" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="List Advanced-more exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05. Кate's Way Out.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="List Advanced-more exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.04. Social Distribution" />
+        <item itemvalue="Python.03. Take Skip Rope" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.05. Кate's Way Out" />
+        <item itemvalue="Python.02. Car Race" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="776c5fe6-ce18-4f92-9c38-589d768002da" name="Default Changelist" comment="" />
+      <created>1587494477726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587494477726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Inspections" timestamp="1587552228953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587552228953" />
+    <state width="598" height="438" key="DebuggerActiveHint" timestamp="1587557358065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="598" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587557358065" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1588151461860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588151461860" />
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1587564146768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587564146768" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1587564146768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587564146768" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1587564146768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587564146768" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1587564146768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587564146768" />
+    <state width="1345" height="264" key="GridCell.Tab.1.bottom" timestamp="1587563343102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="264" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587563343102" />
+    <state width="1345" height="264" key="GridCell.Tab.1.center" timestamp="1587563343102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="264" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587563343102" />
+    <state width="1345" height="264" key="GridCell.Tab.1.left" timestamp="1587563343102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="264" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587563343102" />
+    <state width="1345" height="264" key="GridCell.Tab.1.right" timestamp="1587563343102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="264" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587563343102" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587577355794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587577355794" />
+  </component>
+</project>
